@@ -1,2 +1,2 @@
 # tutorial1_vec_add
-Simplest possible tutorial for vector addision
+Simplest possible tutorial for vector addition
